@@ -1,0 +1,1 @@
+# This repository contains a binary PDF version of the Borromean Ring Signatures paper at https://github.com/ElementsProject/borromean-signatures-writeup . You should check there for the latest version, since this PDF may be out of date.
